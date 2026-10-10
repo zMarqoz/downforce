@@ -7,10 +7,8 @@ Ogni modifica viene salvata prima di essere applicata e si può annullare dallo 
 
 ## Download
 
-Vai alla [pagina dell'ultima versione](https://github.com/zMarqoz/downforce/releases/latest) e scarica:
-
-- **Downforce-Setup.exe**: l'installer completo, funziona su qualsiasi Windows 10/11 a 64 bit.
-- **Downforce-Setup-Leggero.exe**: più piccolo, richiede il .NET 10 Desktop Runtime.
+Vai alla [pagina dell'ultima versione](https://github.com/zMarqoz/downforce/releases/latest) e scarica
+**Downforce-Setup.exe**: ha già tutto dentro e funziona su qualsiasi Windows 10/11 a 64 bit.
 
 Al primo avvio Windows può mostrare "Windows ha protetto il PC" perché l'app non ha una firma digitale:
 clicca **Ulteriori informazioni** e poi **Esegui comunque**.
